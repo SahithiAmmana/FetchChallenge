@@ -21,6 +21,11 @@ This project is a native iOS app developed as part of the Fetch coding challenge
 - Handles network errors gracefully and provides a retry option.
 - Utilizes UIKit for the user interface.
 
+## Preview
+
+https://github.com/SahithiAmmana/FetchChallenge/assets/112002925/2bcb7d38-ceab-4086-8e05-4f27243c6f2d
+
+
 ## Usage
 - Upon launching the app, users are presented with a list of desserts.
 - Users can pull down on the meal list to refresh the data.
